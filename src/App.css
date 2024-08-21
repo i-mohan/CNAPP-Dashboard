@@ -1,0 +1,24 @@
+.widget-card {
+  position: relative;
+  margin-bottom: 15px;
+  /* Adds space between cards */
+}
+
+.widget-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  padding: 10px;
+}
+
+.close-button {
+  margin-left: auto;
+  /* Keeps the close button at the right */
+}
+
+.card-title {
+  margin: 0;
+  /* Remove default margin */
+}
+
+
